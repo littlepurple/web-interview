@@ -9,7 +9,7 @@
 
 ##### 中高级前端大厂面试秘籍，为你保驾护航金三银四，直通大厂(上) https://juejin.im/post/5c64d15d6fb9a049d37f9c20
  
-### (中篇)中高级前端大厂面试秘籍，寒冬中为您保驾护航，直通大厂  https://juejin.im/post/5c92f499f265da612647b754
+##### (中篇)中高级前端大厂面试秘籍，寒冬中为您保驾护航，直通大厂  https://juejin.im/post/5c92f499f265da612647b754
 
 ##### (下篇)中高级前端大厂面试秘籍，寒冬中为您保驾护航，直通大厂 https://juejin.im/post/5cc26dfef265da037b611738
 
@@ -19,7 +19,7 @@
 ##### 2018前端面试总结，看完弄懂，工资少说加3K | 掘金技术征文 https://juejin.im/post/5b94d8965188255c5a0cdc02#heading-22
 
 
-## 各大厂面试题 https://juejin.im/post/5b94d8965188255c5a0cdc02#heading-22
+## 各大厂面试题
 
 ##### “寒冬”三年经验前端面试总结（含头条、百度、饿了么、滴滴等 https://juejin.im/post/5d9c2005f265da5bb977c55e
 
